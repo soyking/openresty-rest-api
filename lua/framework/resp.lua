@@ -1,5 +1,5 @@
 local const = require('framework.const')
-local json = require('cjson')
+local json = require('cjson.safe')
 
 local build_resp = function(data, err)
     local resp = {

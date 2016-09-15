@@ -1,7 +1,7 @@
 openresty-rest-api
 ===
 
-simple rest api example run on [OpenResty](https://www.openresty.org/)
+simple rest api example running on [OpenResty](https://www.openresty.org/)
 
 ## Usage
 
